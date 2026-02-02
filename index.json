@@ -173,5 +173,33 @@
     imageUrl: 'https://64.media.tumblr.com/625e31532a335083366d2e06f65a6cdd/bfe671e03fd48f97-ed/s1280x1920/6473ab6df31ed895d20599993010740844f4db47.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1v42AJvVM7WoNq185vupeLi-PpSIEHUsu/view?usp=sharing',
   },
-  
+  {
+    title: 'Sou Hiyori',
+    description: 'By: Avrax - Anime: Your turn to die',
+    imageUrl: 'https://64.media.tumblr.com/d3238d439e2413a81fd04ac3d2b8d3d7/d58a4f1e7beb9e1f-b0/s1280x1920/4c746f9262f6ac356bf7ded8740c86d41aae0fac.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1gVEApzz2xr_Hkmaty90AetwZWaFLy5EP/view?usp=sharing',
+  },
+  {
+    title: 'Yusei Fudo',
+    description: 'By: Avrax- Anime:Yu-Gi-Oh 5ds',
+    imageUrl: 'https://64.media.tumblr.com/772b6617c5806ca24e7837a70fe4a8b6/d58a4f1e7beb9e1f-0f/s1280x1920/b54489a3cbc80aada667332db9bc1b4ebc0ad7b2.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1HPf0yX38_OurHRwba8eycBcDn4zCOGYo/view?usp=sharing',
+  },
+  {
+    title: 'Judai Yuki',
+    description: 'By: Avrax - Anime:Yu-Gi-oh GX',
+    imageUrl: 'https://64.media.tumblr.com/aa2bd9b10188da302a4efc89743f7a1c/d58a4f1e7beb9e1f-76/s1280x1920/cf5934e60e42a3b182642d55884ad0f85f368435.pnj',
+    downloadUrl: ' https://drive.google.com/file/d/1llosdmUxlXtae_Y-IngI0s4SLD-dCLah/view?usp=sharing',
+  },
+  {
+    title: 'Dante',
+    description: 'By: Avrax - Anime: Devil May Cry',
+    imageUrl: 'https://64.media.tumblr.com/b4df8450665247d2ee41e4f416b522e1/d58a4f1e7beb9e1f-ce/s1280x1920/a8c626d7da3b0cf1186aa837ce020b6066e4d22b.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1EidBdFvV636PeSPpoWB_AkDDQ16hmLk3/view?usp=sharing',
+  },
+  {
+    title: 'Yusaku Fujiki',
+    description: 'By: Avrax - Anime: Yu-Gi-Oh Vrains ',
+    imageUrl: 'https://64.media.tumblr.com/5870fea58496ebcb952f9c7c1593bfc1/d58a4f1e7beb9e1f-f2/s1280x1920/b5e092339bcd5b91f047705d5e485d0b28f22976.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1v4wD2Zk6GVtqQwvbxUF-_V4cqqdVqEys/view?usp=drive_link',
 ]
