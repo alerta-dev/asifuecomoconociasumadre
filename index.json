@@ -100,5 +100,70 @@
     description: 'By: [Autor] - Anime: Death Parade',
     imageUrl: 'https://64.media.tumblr.com/a7bb6082579af76a72ad693b5240f29b/2ac396c872be1e75-75/s1280x1920/8a714f0a0c105eb4f2468141c10fcded9f8e8c52.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1CajV4OX5ZiAGTlXYYmSUqDn6yjP0Oqjb/view?usp=sharing',
-  }
+  },
+  {
+    title: 'Misaka Mikoto',
+    description: 'By: [Autor] - Anime:  Toaru Majutsu   ',
+    imageUrl: 'https://64.media.tumblr.com/97d652b8f0977f4a2d7a521255e018b2/25a01f6b4a43c3a0-39/s1280x1920/c705c5e03f35ee445fd7a17c765678e4fa72e77b.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/bbdmdvseblhyrp2/Misaka_Mikoto.rar/file?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExMHBDSlk1RExMM0lyS1lBZHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7wTzrmE2vTP7m0Yth0sRXfCl3Wyd-OATvQVFrcHuNHxocmMJMaAJGaWsQfNQ_aem_9wporU8reB4R34i7jeutrw',
+  },
+  {
+    title: ' Amanda O'Neill ',
+    description: 'By: [Autor] - Anime: Little Witch Academia ',
+    imageUrl: 'https://64.media.tumblr.com/5a6ba70a96c4df7d18c6727a996ed74b/25a01f6b4a43c3a0-09/s1280x1920/acdd23838e0b31e4b6fa9e1f88592d430a3701b2.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/u25rffiyjdlnupi/Amanda_O%27Neill.rar/file',
+  },
+  {
+    title: ' Mai Valentine',
+    description: 'By: [Autor] - Anime: Yu-Gi-Oh  ',
+    imageUrl: 'https://64.media.tumblr.com/f0046c99a40982497cc44b670b11f2b3/25a01f6b4a43c3a0-a3/s1280x1920/b49b5e5eaa8383e18655f3ab7f750e83d3a771af.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/a59hfigfjj7wto9/Mai_Valentine.rar/file',
+  },
+  {
+    title: 'Vambre Warrior ',
+    description: 'By: [Autor] - Anime: Magiespadas',
+    imageUrl: 'https://64.media.tumblr.com/d20941c1caf51fd5edfe801d0a8729f0/25a01f6b4a43c3a0-7a/s1280x1920/1419050d151a4cd3cbb047895fb9ddca91ab08a7.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/o7ox4a8lydp57b0/Vambre_Warrior.rar/file',
+  },
+  {
+    title: 'Hana Uzaki',
+    description: 'By: [Autor] - Anime: Uzaki-chan',
+    imageUrl: 'https://64.media.tumblr.com/c18270e28c82d3ec6ae144397b356418/25a01f6b4a43c3a0-f2/s1280x1920/444a14d9a0f42466eb1b15bf7fd3b2e684b76956.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/yfdyn0jmucqnh4i/Hana_Uzaki.rar/file',
+  },
+  {
+    title: 'Nia Honjou',
+    description: 'By: [Autor] - Anime: Date A Live',
+    imageUrl: 'https://64.media.tumblr.com/fbefc9cb9d724c1e47d8610fda43d359/25a01f6b4a43c3a0-f8/s1280x1920/5f9945a1ee47c6c8efee49f49d5f937cdbf77639.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/jsp3zouzemr03kc/Nia_Honjou.rar/file',
+  },
+  {
+    title: '   ',
+    description: 'By: [Autor] - Anime:     ',
+    imageUrl: '     ',
+    downloadUrl: '     ',
+  },
+  {
+    title: '   ',
+    description: 'By: [Autor] - Anime:     ',
+    imageUrl: '     ',
+    downloadUrl: '     ',
+  },
+  {
+    title: '   ',
+    description: 'By: [Autor] - Anime:     ',
+    imageUrl: '     ',
+    downloadUrl: '     ',
+  },
+  {
+    title: '   ',
+    description: 'By: [Autor] - Anime:     ',
+    imageUrl: '     ',
+    downloadUrl: '     ',
+  },
+  {
+    title: '   ',
+    description: 'By: [Autor] - Anime:     ',
+    imageUrl: '     ',
+    downloadUrl: '     ',
 ]
