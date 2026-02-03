@@ -430,6 +430,42 @@
     downloadUrl: 'https://drive.google.com/file/d/1TTLV4jh2Ro0GL04AN6W3yAbJRQgw6ZdR/view?usp=sharing',
   },
 
+  {
+    title: 'Itadori',
+    description: 'By: KoyoLq - Anime: Jujutsu Kaisen',
+    imageUrl: 'https://64.media.tumblr.com/36a243789be112481c40ce3447fb835b/93818d39b50b636d-c7/s1280x1920/a86d06afba83735a46e914e51a226ca547f44dd5.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1k90bV2csm0KZgP7XHTewDmlCzVtsj0ad/view?usp=sharing',
+  },
+
+  {
+    title: 'Maka Albarn',
+    description: 'By: Tadano - Anime: Soul Eater',
+    imageUrl: 'https://64.media.tumblr.com/b30ef1160ae8704fd3fb697ed2e36a70/cb86d8051e92f430-58/s1280x1920/04b8fa3e4239ddc0766d1922ee29c670a164255f.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1ck_1ZGZq5tUzDbhk79KLUXI0uYDU16_k/view?usp=sharing',
+  },
+
+{
+    title: 'Kaeya',
+    description: 'By:KoyoLq - Juego: Genshin Impact',
+    imageUrl: 'https://64.media.tumblr.com/0e0dfcea8a86652bfcad3007e2cfd65b/7fd3a9375634f59c-aa/s1280x1920/3fe6605bac8443f7936d26b8b87186a2a1a33e64.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1pUGxzGM6zpiYBNv6SZmXkD43GwJ7MdZa/view?usp=sharing',
+  },
+
+{
+    title: '   ',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+
+{
+    title: '   ',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+
+
 
 
 
