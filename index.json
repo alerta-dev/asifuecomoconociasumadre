@@ -452,20 +452,25 @@
   },
 
 {
-    title: '   ',
-    description: 'By:   - Anime:    ',
-    imageUrl: '     ',
-    downloadUrl: '   ',
+    title: 'Nino Nakano',
+    description: 'By: makireddo - Anime: The Quintessential Quintuplets',
+    imageUrl: 'https://64.media.tumblr.com/f8f20130c20d08311852821f993d9b1e/36a8528428e26423-d2/s1280x1920/04846f1ff8f76b4c52953957a2a3ccf175f44e01.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1C9a9djOR9RElNabq0rRon7eMisxJ7NY8/view?usp=sharing',
   },
 
 {
-    title: '   ',
-    description: 'By:   - Anime:    ',
-    imageUrl: '     ',
-    downloadUrl: '   ',
+    title: 'Cynthia',
+    description: 'By:Dexter Lumineskov - Anime: Pokemon',
+    imageUrl: 'https://64.media.tumblr.com/3512fa0d1ccba8c071126803f36fb524/6afa1332b4de31df-4a/s1280x1920/5d27e67e3880d7724824992b120b4fdd5f5b53f5.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1VULyvj7PApvdZ-paQ1Vjul5vvYsP-1zK/view?usp=sharing',
   },
 
-
+{
+    title: 'Naofumi',
+    description: 'By: Mory - Anime:The Rising of the Shield Hero',
+    imageUrl: 'https://64.media.tumblr.com/32a7e3de25d275327b1324734f157266/fc015025033b0fbe-a8/s1280x1920/cf8dbeba0dc9fe03aeb49d1f8b71407a484eb1fb.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/11sLHXmbLZh6reQu9l1pwpwuOc4orv6Qr/view?usp=sharing',
+  },
 
 
 
