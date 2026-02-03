@@ -478,6 +478,108 @@
     downloadUrl: 'https://drive.google.com/file/d/1ts0V6zdi_UwoUiLaz-1TcW9elR8UtWOT/view?usp=drive_link',
   },
   {
+    title: 'Asuna',
+    description: 'By: Brief Stollen - Anime: S.A.O. ',
+    imageUrl: 'https://64.media.tumblr.com/c5d2900efa978375209fae7fb442095e/205fdadd0e78f507-fd/s1280x1920/cd4aaafc2a35243cdfb7c4acd32a266e328d1a54.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1yx1ngYKpK45W1Yz74Lz6203GbeOqfWIg/view?usp=drive_link',
+  },
+  {
+    title: 'Aya Shameimaru',
+    description: 'By:Brief Stollen - Anime:Touhou Fannon',
+    imageUrl: 'https://64.media.tumblr.com/cc1f17e1010eec4d3331aabfed00bfad/205fdadd0e78f507-c2/s1280x1920/a9dc4bcfb7a61cf237e06a81acc835b4553d5f0d.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1jn9WDNF9M50XP-6XBeQUlwklTqGuAybQ/view?usp=drive_link',
+  },
+  {
+    title: 'Miko Yotsuya',
+    description: 'By:Brief Stollen - Anime: Mieruko-chan',
+    imageUrl: 'https://64.media.tumblr.com/b1dbd7332bb475d153b3c12eb9650490/205fdadd0e78f507-5b/s1280x1920/39127a79163fd26c623dcb9c4ed81b18100a91c2.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1n8qP_VAXJbCyAmkLT-FIs311fLOnDWRy/view?usp=drive_link',
+  },
+  {
+    title: 'Roxy Migurdia',
+    description: 'By:Brief Stollen - Anime: Mushoku Tensei',
+    imageUrl: 'https://64.media.tumblr.com/7b85a380198feda93911c100bb598c67/205fdadd0e78f507-ec/s1280x1920/00f1152d12ed33f167273c0df720bec8d157fcb3.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1S8wcoce_ryACjL3SovsFwRebGiPj5IIf/view?usp=drive_link',
+  },
+  {
+    title: 'Umaru-Chan',
+    description: 'By:Brief Stollen - Anime:Himouto! Umaru-chan',
+    imageUrl: 'https://64.media.tumblr.com/f0c4632c7d781b9e5f655928c0a81234/205fdadd0e78f507-e8/s1280x1920/164a99659f625ff09b2c7dff67f204bc79b6ade0.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1VuTJzNM5zKhUImjEBFd77Pfm0xftEyez/view?usp=drive_link',
+  },
+  {
+    title: 'Tejina - Senpai',
+    description: 'By: Brief Stollen - Anime:Magical Sempai',
+    imageUrl: 'https://64.media.tumblr.com/ed6dd817541ac35e592f095556c9661e/205fdadd0e78f507-85/s1280x1920/cb96fdb01b2909fb0d4fd371e9a9036dc542dc50.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1VRgQmmFDHdxxLoT1Zd_haPHGSwAD6qth/view?usp=drive_link',
+  },
+  {
+    title: 'Sonico - Chan',
+    description: 'By: Brief Stollen - Anime: Senran Kagura',
+    imageUrl: 'https://64.media.tumblr.com/0bc36217126f900bbcd728f02c23d318/205fdadd0e78f507-53/s400x600/aba9f20bcd1fe29f4fb9cdbbe871eb90ac223abb.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1NGNjkCF27snTuzdHMjc2AOf-w2GBrgYm/view?usp=drive_link',
+  },
+  {
+    title: 'Mio Naganohara',
+    description: 'By: Brief Stollen - Anime: Nichijou',
+    imageUrl: 'https://64.media.tumblr.com/2aa1b92ec2315aec6f58926e0662d42b/205fdadd0e78f507-0f/s1280x1920/a50ce71506baba0ec470f61845eb89709908d7df.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/11-BOP4281Q-QmjC1uj-aGy_SziGe4e9-/view?usp=drive_link',
+  },
+  {
+    title: 'Lucoa',
+    description: 'By: Brief Stollen - Anime: Kobayashi san chi no maid dragon',
+    imageUrl: 'https://64.media.tumblr.com/3096fb4d5459180f9e97952af59f9fa1/205fdadd0e78f507-38/s400x600/548672c6765b48c907e6616ae91cf541f4903f50.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1FAozQT8V8mBK5V55WRlnv-ye4SSZ5tIm/view?usp=drive_link',
+  },
+  {
+    title: 'Ikaros',
+    description: 'By:Brief Stollen - Anime: Sora no Otoshimono',
+    imageUrl: 'https://64.media.tumblr.com/4bb7a3a50fd4a15d78d97a985fd3ec2a/205fdadd0e78f507-e1/s1280x1920/00219ca6ac6c5336dba2e101f66dbf4e9900bc4e.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1TadHDnE1LDYZz0FFI7U2BIDhXEQh84E1/view?usp=drive_link',
+  },
+  {
+    title: 'Kobayashi - san',
+    description: 'By:Brief Stollen - Anime: Kobayashi san chi no maid dragon',
+    imageUrl: 'https://64.media.tumblr.com/9d32d4a0630cb8a9668cd1a6b58633c3/205fdadd0e78f507-67/s1280x1920/95d80b21149d9daa2f8be576eff9fc3d766ef966.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/11D5gpgnFq0cYHsEXmv3nzey6HYC_vCqq/view?usp=drive_link',
+  },
+  {
+    title: 'Kasukabe You',
+    description: 'By: Brief Stollen - Anime:Mondaiji Tachi ga Isekai Kara Kuru So Desu Yo?',
+    imageUrl: 'https://64.media.tumblr.com/58299e445982406985d56479d39e58e8/205fdadd0e78f507-c0/s400x600/643fc34eb21575f4e24c32bb839372cbd528ffce.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1QjuR4sDlsvMnOwHyEe2nZWBoNQcWhRkw/view?usp=drive_link',
+  },
+  {
+    title: 'Iris',
+    description: 'By:Brief Stollen  - Anime:Pokemon',
+    imageUrl: 'https://64.media.tumblr.com/b001af87eea8e1bbffb6f64bbcd892d7/205fdadd0e78f507-f4/s640x960/07226b527b775b24a0a96a8084140c3f0a2e43e3.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1AZMLpOjdJKMnckO_SyJv9EyFdzEYVJ_S/view?usp=drive_link',
+  },
+  {
+    title: 'Briefers Rock',
+    description: 'By: Brief Stollen - Anime:Panty & Stocking ',
+    imageUrl: 'https://64.media.tumblr.com/d86deede9231b5f60dca13f5c37d025f/205fdadd0e78f507-42/s1280x1920/c29cdc04309f88278a3659c8ef7adc603b5d58d5.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/18Pk3yzhEBNRoXvXOJoVzdKa8deFgN-HX/view?usp=drive_link',
+  },
+  {
+    title: 'Yuuko Aioi ',
+    description: 'By: Brief Stollen - Anime:Nichijou',
+    imageUrl: 'https://64.media.tumblr.com/f1b7fe4506762411d551121e216e934e/205fdadd0e78f507-0a/s1280x1920/160e296bc1d11aeeab08659b95a693f46163476b.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1yCLSDOT5SWmTAcjnBZKTcRDg2xe7C7rD/view?usp=drive_link',
+  },
+  {
+    title: 'Ai Hoshino',
+    description: 'By: Brief Stollen - Anime:Oshi no Ko',
+    imageUrl: 'https://64.media.tumblr.com/7061707a84f2bd8c3a09bbc523d4feb1/205fdadd0e78f507-f1/s1280x1920/a4922c2004a95e521d2142403e992baca0682519.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1G6BRT0jq8IK0-fJnQKoI_tofEuIaBoj3/view?usp=drive_link',
+  },
+  {
+    title: '   ',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
     title: '   ',
     description: 'By:   - Anime:    ',
     imageUrl: '     ',
@@ -495,24 +597,12 @@
     imageUrl: '     ',
     downloadUrl: '   ',
   },
-
-
-
-
   {
     title: '   ',
     description: 'By:   - Anime:    ',
     imageUrl: '     ',
     downloadUrl: '   ',
   },
-
-
-
-
-
-
-
-
 
  --------------------------/* OTROS ARCHIVOS*/
 {
