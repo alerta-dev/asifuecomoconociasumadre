@@ -471,11 +471,30 @@
     imageUrl: 'https://64.media.tumblr.com/32a7e3de25d275327b1324734f157266/fc015025033b0fbe-a8/s1280x1920/cf8dbeba0dc9fe03aeb49d1f8b71407a484eb1fb.pnj',
     downloadUrl: 'https://drive.google.com/file/d/11sLHXmbLZh6reQu9l1pwpwuOc4orv6Qr/view?usp=sharing',
   },
-
-
-
-
-
+  {
+    title: 'Frieren',
+    description: 'By: Eduardohaloce - Anime: Frieren   ',
+    imageUrl: 'https://64.media.tumblr.com/0fa74e85bf463b9a2757afdae248c1ce/be4ffa57bb28855b-ad/s1280x1920/d64b87129bfec19edcfea9a35162d35d97e0e4cb.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1ts0V6zdi_UwoUiLaz-1TcW9elR8UtWOT/view?usp=drive_link',
+  },
+  {
+    title: '   ',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: '   ',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: '   ',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
 
 
 
