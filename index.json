@@ -396,6 +396,50 @@
   },
 
   {
+    title: 'Amy Rose',
+    description: 'By: Lisandro Sierra  - Serie: SonicX',
+    imageUrl: 'https://64.media.tumblr.com/285b11577724f6a368743471f8d89a50/2820e9fd3e9eaa9d-2f/s1280x1920/04f8d7a4cb46f08acaf0816f6cce188a19b268e7.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1Ql3chKhZ9kzTD5WyOxyw9ApP1BuTMTS9/view?usp=sharing',
+  },
+
+  {
+    title: 'Prushka',
+    description: 'By:LoreMafia - Anime: Made in Abyss',
+    imageUrl: 'https://64.media.tumblr.com/a3ddd9a93b89b933c4073494f689a0a2/2820e9fd3e9eaa9d-8c/s1280x1920/e0a576e82eb804ffeb4eadb6d25eb0e7ad895d44.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1xgQukkxNH0gyHbI5QJLbJxGyox-M0wqX/view?usp=sharing',
+  },
+
+  {
+    title: 'Asuka',
+    description: 'By: Johzuto - Anime: Senran Kagura',
+    imageUrl: 'https://64.media.tumblr.com/074a33c6f62a2246cf8e06dc660329a6/c1a3737774612205-2e/s1280x1920/5dc7e76d66548eba049a47f811ba4bc2afcf220b.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1oJ3trOoq8xPQRV_TyD3sR22Md81Nsr2W/view?usp=sharing',
+  },
+
+  {
+    title: 'Accelerator',
+    description: 'By: Avrax - Anime: A Certain Magical Index',
+    imageUrl: 'https://64.media.tumblr.com/b9cb34e583c54b98c21cf9fc2a61494f/9061a548fa8b02e9-6d/s1280x1920/117725ab52cf6f2da5807aa8e64ea83911188a81.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1cTQToPRFq7KO7e3daL7H2a0B4HXw3PTS/view?usp=sharing',
+  },
+
+{
+    title: ' Ghost/Caballerito/Hollow',
+    description: 'By: Expion Umbra - Juego: Hollow Knight',
+    imageUrl: 'https://64.media.tumblr.com/2eeab8bd5dde059d7cfdb67ef2765eb3/267cc4594a6807b5-a5/s1280x1920/c4aadeb7d3013d1309fe2fe91bc4bf2352a9f205.pnj',
+    downloadUrl: '',
+  },
+
+
+
+
+
+
+
+
+
+
+  {
     title: '   ',
     description: 'By:   - Anime:    ',
     imageUrl: '     ',
