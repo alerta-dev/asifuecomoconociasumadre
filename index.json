@@ -592,6 +592,168 @@
     downloadUrl: 'https://drive.google.com/file/d/1bHf6sSaaiAnnt3xDPTaMTDK67cRp87Tu/view?usp=sharing',
   },
   {
+    title: 'Talho Yuki  ',
+    description: 'By:   - Anime:Eureka Seven    ',
+    imageUrl: 'https://eurekaseven.jp/hi-evolution1/about/assets/sp/img/words/2.jpg',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Koleda Belobog',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Aoba Anoa',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Milfeulle',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Itsuki Nakano',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Aqua',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Alert',
+    description: 'By:   - Anime:  XD    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Watashi',
+    description: 'By:   - Anime: The Tatamy galaxy  ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Tomoko Kuroki',
+    description: 'By:   - Anime:Watamote ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Deadpool',
+    description: 'By:   - Anime: Marvel   ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Goku',
+    description: 'By:   - Anime:Dragon Ball Z ',
+    imageUrl: 'https://elcomercio.pe/resizer/v2/6Y2EDIISGFGVFANEVDCR5LCG34.jpg?auth=f58b5c647a09717054d85bb8b9a6bc624bfcb14fe9c60b5246730ea6a513e2b0&width=1198&height=690&quality=75&smart=true',
+    downloadUrl: 'https://drive.google.com/file/d/1x_MThhBUzNM58yjEflusPtFo-majDnMo/view?usp=drive_link',
+  },
+  {
+    title: 'Charlotte Wraith',
+    description: 'By:Marnicai - Anime:As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World ',
+    imageUrl: 'https://pbs.twimg.com/media/GNc37rPawAArMXV.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/1MRQScLyujROfUejuPyEtDLonl6KkxUBC/view?usp=sharing',
+  },
+  {
+    title: 'Shion',
+    description: 'By:Marnicai - Anime:Tensura',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/15pfN3jDcDHsuGXuS4i9DvrUe_gYB7gtR/view?usp=drive_link',
+  },
+  {
+    title: 'Beta ',
+    description: 'By:Sakuragasaki Sebas - Anime:Inazuma Eleven GO',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1c9WXFiHezOuHjFSti-WKHPW-IVv6tWsO/view?usp=drive_link',
+  },
+  {
+    title: 'Bills ',
+    description: 'By:Mishiranu Hito- Anime:Dragon Ball Super',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1zU1a-3uOPkJzq-dYeUlzBkilvhBOM66x/view?usp=drive_link',
+  },
+  {
+    title: 'Jimi tarou',
+    description: 'By:Kelchiro- Anime:1-nen A-gumi no Monster',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1W6MHaM7a-w7eEktmip70XygP6D8iFdpN/view?usp=drive_link',
+  },
+  {
+    title: 'Chaser Jhon Doe',
+    description: 'By:K0lDRuZ- Anime:Yumekui Merry',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1wM0mEykMS7RU1k3X5bwAeDWRxKHFBPTK/view?usp=drive_link',
+  },
+  {
+    title: 'Rouge the Bat',
+    description: 'By:Kingston- Anime:Sonic',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1rA17YL8rBYRYJeNMTpKJMWkTIMvy1cC-/view?usp=drive_link',
+  },
+  {
+    title: 'Knuckles',
+    description: 'By:Kingston - Anime: Sonic   ',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1OS5F6B2n6yQKuIeuB4IsP5wDKVBfPII2/view?usp=drive_link',
+  },
+  {
+    title: 'Rarity',
+    description: 'By:Mirai77 - Anime:Equestria girls MLP',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1pNGczMQ0YEDDXDggchVl9Fa93cjix6fc/view?usp=drive_link',
+  },
+  {
+    title: 'Rui Tachibana',
+    description: 'By:LoreMafia - Anime:Domestic Na Kanojo',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/19U-IhGnLUAo5O2w6O5bo2jm__H2VfQUB/view?usp=drive_link',
+  },
+  {
+    title: 'Nico Yazawa',
+    description: 'By:Starmelvyy- Anime:Love Live ',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1-1OKp0adiY99fEUEpEJ0Aph-mEipEOg4/view?usp=drive_link',
+  },
+  {
+    title: 'Yuzuki Nanase',
+    description: 'By:Starmelvyy - Anime:Chitose-kun wa Ramune Bin no Naka',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1kcT55faYWEK5Nz613u3IxMDYA8cgy3c7/view?usp=drive_link',
+  },
+  {
+    title: 'Reisen Ulnaba',
+    description: 'By:Tadan0- Anime:Touhou project',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1HnQ-MlI1S9dc0OeyHSoL9HqUv-995Ay8/view?usp=drive_link',
+  },
+  {
+    title: 'Fox mccloud',
+    description: 'By:Draguito- Anime:Star Fox',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1OyGpvhJ2TnBGfNfmm0PBj-k94Ru9Dk1v/view?usp=drive_link',
+  },
+  {
+    title: 'Mitsuri',
+    description: 'By:LoreMafia- Anime:Demon Slayer',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1U73TENW0V5TrRNk52haQEr5eipqfbYel/view?usp=drive_link',
+  },
+  {
+    title: 'Hogni Ragnar ',
+    description: 'By:Eduardohaloce- Anime:DanMachi',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1-Qkm0-ciaPmMjm4bxCP-YrlSYU0hIpQe/view?usp=drive_link',
+  },
+  {
     title: '   ',
     description: 'By:   - Anime:    ',
     imageUrl: '     ',
@@ -603,8 +765,6 @@
     imageUrl: '     ',
     downloadUrl: '   ',
   },
-
-
 
 ------------------------------------------------ PROGRAMAS 
 {
