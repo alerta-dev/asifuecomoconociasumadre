@@ -598,60 +598,6 @@
     downloadUrl: '   ',
   },
   {
-    title: 'Koleda Belobog',
-    description: 'By:   - Anime:    ',
-    imageUrl: '     ',
-    downloadUrl: '   ',
-  },
-  {
-    title: 'Aoba Anoa',
-    description: 'By:   - Anime:    ',
-    imageUrl: '     ',
-    downloadUrl: '   ',
-  },
-  {
-    title: 'Milfeulle',
-    description: 'By:   - Anime:    ',
-    imageUrl: '     ',
-    downloadUrl: '   ',
-  },
-  {
-    title: 'Itsuki Nakano',
-    description: 'By:   - Anime:    ',
-    imageUrl: '     ',
-    downloadUrl: '   ',
-  },
-  {
-    title: 'Aqua',
-    description: 'By:   - Anime:    ',
-    imageUrl: '     ',
-    downloadUrl: '   ',
-  },
-  {
-    title: 'Alert',
-    description: 'By:   - Anime:  XD    ',
-    imageUrl: '     ',
-    downloadUrl: '   ',
-  },
-  {
-    title: 'Watashi',
-    description: 'By:   - Anime: The Tatamy galaxy  ',
-    imageUrl: '     ',
-    downloadUrl: '   ',
-  },
-  {
-    title: 'Tomoko Kuroki',
-    description: 'By:   - Anime:Watamote ',
-    imageUrl: '     ',
-    downloadUrl: '   ',
-  },
-  {
-    title: 'Deadpool',
-    description: 'By:   - Anime: Marvel   ',
-    imageUrl: '     ',
-    downloadUrl: '   ',
-  },
-  {
     title: 'Goku',
     description: 'By:   - Anime:Dragon Ball Z ',
     imageUrl: 'https://elcomercio.pe/resizer/v2/6Y2EDIISGFGVFANEVDCR5LCG34.jpg?auth=f58b5c647a09717054d85bb8b9a6bc624bfcb14fe9c60b5246730ea6a513e2b0&width=1198&height=690&quality=75&smart=true',
@@ -1288,6 +1234,69 @@
     downloadUrl: 'https://drive.google.com/file/d/1hNohvyuIEd7xVB-VClasMkA5k60WOyIM/view?usp=drive_link',
   },
   {
+    title: 'Koleda Belobog',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Aoba Anoa',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Milfeulle',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Itsuki Nakano',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Aqua',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Alert',
+    description: 'By:   - Anime:  XD    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Watashi',
+    description: 'By:   - Anime: The Tatamy galaxy  ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Tomoko Kuroki',
+    description: 'By:   - Anime:Watamote ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+    title: 'Deadpool',
+    description: 'By:   - Anime: Marvel   ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
+  {
+
+
+
+
+
+
+
+
+ // {
     title: '   ',
     description: 'By:   - Anime:    ',
     imageUrl: '     ',
@@ -1299,6 +1308,8 @@
     imageUrl: '     ',
     downloadUrl: '   ',
   },
+
+    
 ------------------------------------------------ PROGRAMAS 
 {
     title: 'Sony Vegas 13',
