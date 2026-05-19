@@ -1377,6 +1377,12 @@
     imageUrl: 'https://petapixel.com/assets/uploads/2024/06/blackmagic-cloud-ai-training-featured-1536x806.jpg',
     downloadUrl: 'https://pixeldrain.com/u/Y8jvqZih',
   },
+{
+    title: 'Sony Vegas 21',
+    description: 'By:JohnnyBlack X',
+    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1kqxon-lrJFSfWE1iPIcqOsNefryDrkJO/view?usp=drive_link',
+  },
 
 
 
@@ -1410,8 +1416,38 @@
 {
     title: 'Sonidos de Metro 2033',
     description: 'By:  ',
-    imageUrl: '  ',
+    imageUrl: 'https://i.ytimg.com/vi/Fdkv0W54ytQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB9wYCWyEbYdN5jVVfwPUPBBzwNGQ',
     downloadUrl: 'https://www.mediafire.com/file/vqefoaiqk2pd0uc/metro2033.rar/file',
+  },
+{
+    title: 'Mister Horse SFX',
+    description: 'By:LuisFriends  ',
+    imageUrl: 'https://i.ytimg.com/vi/-0PlwJq87R4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBh7A6kkeg6IGMqyrsqmo-WyJdTBQ',
+    downloadUrl: 'https://drive.google.com/file/d/1Lac5dGHDmWCOB-tMPT0b9dVQdxf-FWOF/view?usp=drive_link',
+  },
+{
+    title: 'GTA IV SFX',
+    description: 'By:   ',
+    imageUrl: 'https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/HHI3T22RSNP6NC3YH75L2CVZFA.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/1RK4lGpQNbcBIGzZMuWaqkWWeuucMl9J2/view?usp=drive_link',
+  },
+{
+    title: 'STARTER PACK VISUAL EFFECTS',
+    description: 'By:LuisFriends y más   ',
+    imageUrl: '     ',
+    downloadUrl: 'https://drive.google.com/file/d/1igY2A6ShTmtDYxg5ut1J8d-0R3G-_Fb_/view?usp=drive_link',
+  },
+{
+    title: 'Code Iyoko Songs',
+    description: 'By:   - ',
+    imageUrl: 'https://i.ytimg.com/vi/sglEftCe8Is/maxresdefault.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/12rLY45VO9Aa4mW7xTbwlIRsbLy0quRLL/view?usp=drive_link',
+  },
+{
+    title: '   ',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
   },
 {
     title: '   ',
@@ -1429,8 +1465,36 @@
     imageUrl: 'https://64.media.tumblr.com/8df06821f8baf5b3d35d52dc76d8dedc/5a02eb27ce7e2535-fd/s1280x1920/a4cd96f62c4e5857df79dd8285eb5c82260e461c.pnj',
     downloadUrl: 'https://drive.google.com/file/d/18JvvW2yxrq9Oa7a3gMiiOA6fLk2C-1dY/view?usp=sharing',
   },
-
-
+{
+    title: 'BLH 6 Fondos',
+    description: 'By:ZihFried, aortados por Anonimo ',
+    imageUrl: 'https://i.ytimg.com/vi/7SKUOc_bUdQ/maxresdefault.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/1MQpbY_AHYqB_JE0CuqiFPSOJeUg-vsY3/view?usp=drive_link',
+  },
+{
+    title: 'Fondos Halloween',
+    description: 'By:Sentido Loquendo, eventos de Halloween   ',
+    imageUrl: 'https://i.ytimg.com/vi/OHc6nr2K2-Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA2m128p7YtOzTBQ8AOPmz-L1_e7w',
+    downloadUrl: 'https://drive.google.com/file/d/13FqnnGxRebWugTdKooCQ5wwMZpaGB_N3/view?usp=drive_link',
+  },
+{
+    title: 'Le Bout Fondos',
+    description: 'Fondos pertenecientes al torneo La Mansión Le Bout, de hace unos años.  ',
+    imageUrl: 'https://i.ytimg.com/vi/035I1tKlLSo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAgVeTclNAo75g5HbmYofqYTAb07Q',
+    downloadUrl: 'https://drive.google.com/file/d/1rS9eElNVa8l0lT-8-u1ieVE6619NH6ie/view?usp=drive_link',
+  },
+{
+    title: 'Inferno Fondos',
+    description: 'By:SLD, torneo antiguo.  ',
+    imageUrl: 'https://i1-c.pinimg.com/1200x/cf/00/9d/cf009d0183fbe027042977c74aac1aed.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/1K234lQFtYadKH9f6ma1y0Gkdr-se9VFz/view?usp=drive_link',
+  },
+{
+    title: '   ',
+    description: 'By:   - Anime:    ',
+    imageUrl: '     ',
+    downloadUrl: '   ',
+  },
 
 
  --------------------------/* SONIDOS*/
